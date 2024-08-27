@@ -1,16 +1,16 @@
-<!-- ---
+---
 layout: page
-title: submenus
+title: presentations
 nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: publications
+  # - title: phd dissertation defense
+  #   permalink: /publications/
+  # - title: divider
+  - title: invited talks
     permalink: /publications/
   - title: divider
-  - title: projects
-    permalink: /projects/
-  - title: divider
-  - title: blog
-    permalink: /blog/
---- -->
+  - title: conference demos
+    permalink: /publications/
+---
