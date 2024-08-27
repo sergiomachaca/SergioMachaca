@@ -4,7 +4,7 @@ title: about
 permalink: /
 # nav: true
 # nav_order: 1
-subtitle: PhD Candidate, Department of Mechanical Engineering, Johns Hopkins University
+subtitle: PhD Candidate in Mechanical Engineering, Johns Hopkins University
 
 profile:
   align: right
