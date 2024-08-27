@@ -2,9 +2,9 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: # the website title (if blank, full name will be used instead)
+title: Sergio A. Machaca # the website title (if blank, full name will be used instead)
 first_name: Sergio
-middle_name: 
+middle_name: A.
 last_name: Machaca
 email: smachac2@jh.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
