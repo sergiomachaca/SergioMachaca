@@ -2,6 +2,8 @@
 layout: about
 title: about
 permalink: /
+nav: true
+nav_order: 1
 subtitle: <a href='https://hamr.lcsr.jhu.edu'>HAMR Lab</a> | <a href='https://www.jhu.edu'>Johns Hopkins University</a>
 
 profile:
