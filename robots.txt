@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://www.sergiomachaca.me/sitemap.xml
+Sitemap: https://sergiomachaca.me/sitemap.xml
