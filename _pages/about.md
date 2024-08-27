@@ -32,4 +32,4 @@ My research has been funded by the National Science Foundation Graduate Research
 
 During my undergraduate education at Drexel University, I interned at the Johns Hopkins University Applied Physics Laboratory (Laurel, MD, USA) and Siemens AG (Munich, Germany), and I was a National Science Foundation Research Experience for Undergraduates (NSF REU) student at University of Pennsylvania Laboratory for Research on the Structure of Matter.
 
-For more information, please see my CV.
+For more information, please see my <a href='https://sergiomachaca.github.io/cv/'>CV</a>.
