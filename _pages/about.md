@@ -2,8 +2,6 @@
 layout: about
 title: about
 permalink: /
-# nav: true
-# nav_order: 1
 subtitle: PhD Candidate in Mechanical Engineering, Johns Hopkins University
 
 profile:
