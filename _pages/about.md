@@ -26,6 +26,8 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
+[this website is currently under construction...]
+
 I am a PhD student in the Department of Mechanical Engineering at Johns Hopkins University and a graduate research assistant in the Haptics and Medical Robotics Laboratory (HAMR Lab) led by Dr. Jeremy Brown.
 
 My research has been funded by the National Science Foundation Graduate Research Fellowships Program (NSF GRFP) and the Link Foundation Modeling, Simulation, and Training (MS&T) Fellowship.
