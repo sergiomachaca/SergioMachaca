@@ -9,7 +9,7 @@ subtitle: <a href='https://hamr.lcsr.jhu.edu'>HAMR Lab</a> | <a href='https://ww
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>555 your office number</p>
   #   <p>123 your address street</p>
@@ -35,4 +35,4 @@ My research has been funded by the National Science Foundation Graduate Research
 During my undergraduate education at Drexel University, I interned at the Johns Hopkins University Applied Physics Laboratory (Laurel, MD, USA) and Siemens AG (Munich, Germany), and I was a National Science Foundation Research Experience for Undergraduates (NSF REU) student at University of Pennsylvania Laboratory for Research on the Structure of Matter.
 
 <!-- For more information, please see my <a href='https://sergiomachaca.github.io/cv/'>CV</a>. -->
-For more information, please see my [CV]{% link _pages/cv.md %}.
+For more information, please see my [CV]({{ _pages/ }}{% link cv.md %}).
