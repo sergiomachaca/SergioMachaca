@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.jhu.edu'>Johns Hopkins University</a>
+subtitle: <a href='https://hamr.lcsr.jhu.edu'>HAMR Lab</a> | <a href='https://www.jhu.edu'>Johns Hopkins University</a>
 
 profile:
   align: right
