@@ -4,7 +4,7 @@ title: about
 permalink: /
 # nav: true
 # nav_order: 1
-subtitle: <a href='https://hamr.lcsr.jhu.edu'>HAMR Lab</a> | <a href='https://www.jhu.edu'>Johns Hopkins University</a>
+subtitle: PhD Candidate, Department of Mechanical Engineering, Johns Hopkins University
 
 profile:
   align: right
@@ -26,7 +26,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-(this website is currently under construction...)
+<strong>(this website is currently under construction...)</strong>
 
 I am a PhD student in the <a href='https://me.jhu.edu'>Department of Mechanical Engineering</a> at Johns Hopkins University and a graduate research assistant in the <a href='https://hamr.lcsr.jhu.edu'>Haptics and Medical Robotics Laboratory (HAMR Lab)</a> led by <a href='https://engineering.jhu.edu/faculty/jeremy-brown/'>Dr. Jeremy Brown</a>.
 

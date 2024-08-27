@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: (this website is currently under construction...)
+description: <strong>(this website is currently under construction...)</strong>
 nav: true
 nav_order: 6
 ---
