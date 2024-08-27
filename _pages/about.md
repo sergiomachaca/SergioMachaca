@@ -28,10 +28,10 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 (this website is currently under construction...)
 
-I am a PhD student in the <a href='https://me.jhu.edu'>Department of Mechanical Engineering</a> at Johns Hopkins University and a graduate research assistant in the Haptics and Medical Robotics Laboratory (HAMR Lab) led by Dr. Jeremy Brown.
+I am a PhD student in the <a href='https://me.jhu.edu'>Department of Mechanical Engineering</a> at Johns Hopkins University and a graduate research assistant in the <a href='https://hamr.lcsr.jhu.edu'>Haptics and Medical Robotics Laboratory (HAMR Lab)</a> led by <a href='https://engineering.jhu.edu/faculty/jeremy-brown/'>Dr. Jeremy Brown</a>.
 
 My research has been funded by the National Science Foundation <a href='https://www.nsfgrfp.org'>Graduate Research Fellowships Program (NSF GRFP)</a> and the Link Foundation <a href='https://linksim.org'>Modeling, Simulation, and Training (MS&T) Fellowship</a>.
 
-During my undergraduate education at <a href='https://drexel.edu'>Drexel University</a>, I interned at the Johns Hopkins University <a href='https://www.jhuapl.edu'>Applied Physics Laboratory</a> (Laurel, MD, USA) and <a href='https://www.siemens.com/global/en.html'>Siemens AG</a> (Munich, Germany), and I was a National Science Foundation <a href='https://www.lrsm.upenn.edu/outreach/reu/'>Research Experience for Undergraduates (NSF REU)</a> student at University of Pennsylvania Laboratory for Research on the Structure of Matter.
+During my undergraduate education at <a href='https://drexel.edu'>Drexel University</a>, I interned at the Johns Hopkins University <a href='https://www.jhuapl.edu'>Applied Physics Laboratory</a> (Laurel, MD, USA) and <a href='https://www.siemens.com/global/en.html'>Siemens AG</a> (Munich, Germany), and I was a National Science Foundation <a href='https://www.lrsm.upenn.edu/outreach/reu/'>Research Experience for Undergraduates (NSF REU)</a> student at University of Pennsylvania LRSM.
 
 For more information, please see my <a href='https://sergiomachaca.github.io/cv/'>CV</a>.
