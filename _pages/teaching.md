@@ -7,6 +7,6 @@ nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+In Fall 2019, I was a Teaching Assistant (TA) for the JHU graduate-level course EN.530.691 Haptic Interface Design for Human-Robot Interaction, taught by Professor Jeremy D. Brown Ph.D.
 
-Organize your courses by years, topics, or universities, however you like!
+In Spring 2020, I was a Teaching Assistant (TA) for the JHU graduate-level course EN.530.421 Mechatronics, taught by Professor Jeremy D. Brown Ph.D.
