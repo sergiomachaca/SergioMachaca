@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: <strong>(this website is currently under construction...)</strong>
+description: Here are some research articles I have authored or co-authored.
 nav: true
 nav_order: 3
 ---
