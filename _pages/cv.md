@@ -9,3 +9,5 @@ description: <strong>(this website is currently under construction...)</strong>
 toc:
   sidebar: left
 ---
+
+(Please ignore the placeholder information. The updated CV pdf is available for download.)
