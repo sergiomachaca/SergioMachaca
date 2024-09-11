@@ -10,7 +10,7 @@ horizontal: false
 ---
 
 I am currently working on filling out this page! Please check back soon for updates.
-Check out my 3D print designs on <a href ="https://www.printables.com/@ndr3_1573872">Printables!</a> 
+Check out my 3D print designs on <a href ="https://www.printables.com/@ndr3_1573872">Printables!</a>
 
 <!-- pages/projects.md -->
 <div class="projects">
