@@ -24,8 +24,6 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-<strong>(this website is currently under construction...)</strong>
-
 I am a PhD student in the <a href='https://me.jhu.edu'>Department of Mechanical Engineering</a> at <a href='https://www.jhu.edu'>Johns Hopkins University</a> and a graduate research assistant in the <a href='https://hamr.lcsr.jhu.edu'>Haptics and Medical Robotics Laboratory (HAMR Lab)</a> led by <a href='https://engineering.jhu.edu/faculty/jeremy-brown/'>Dr. Jeremy Brown</a>.
 
 My research has been funded by the National Science Foundation <a href='https://www.nsfgrfp.org'>Graduate Research Fellowships Program (NSF GRFP)</a> and the Link Foundation <a href='https://linksim.org'>Modeling, Simulation, and Training (MS&T) Fellowship</a>.
