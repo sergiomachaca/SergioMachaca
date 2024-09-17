@@ -33,68 +33,29 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Johns Hopkins University",
+      "location": "Baltimore, MD, USA",
+      "url": "https://www.jhu.edu/",
+      "area": "Mechanical Engineering",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "August 2018",
+      "endDate": "December 2024"
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "title": "Modeling, Simulation, and Training (MS&T) Fellowship",
+      "date": "2022-2024",
+      "awarder": "Link Foundation",
+      "url": "https://linksim.org",
+      "summary": "The Link Foundation supports programs to foster the theoretical basis, practical knowledge, and application of energy, simulation, and ocean engineering and instrumentation research, and to disseminate the results of that research through lectures, seminars and publications."
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "title": "Graduate Research Fellowships Program (GRFP)",
+      "date": "2019-2021",
+      "awarder": "National Science Foundation",
+      "url": "https://www.nsfgrfp.org",
+      "summary": "The purpose of the NSF Graduate Research Fellowship Program (GRFP) is to help ensure the quality, vitality, and diversity of the scientific and engineering workforce of the United States. A goal of the program is to broaden participation of the full spectrum of diverse talents in STEM.. The program recognizes and supports outstanding graduate students in NSF-supported science, technology, engineering, and mathematics disciplines who are pursuing research-based master’s and doctoral degrees at accredited United States institutions."
     }
   ],
   "publications": [
