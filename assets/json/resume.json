@@ -1,17 +1,9 @@
 {
   "basics": {
     "name": "Sergio Machaca",
-    "label": "Mechanical Engineer",
     "image": "",
-    "email": "smachac2 <at> jh <dot> edu",
+    "email": "smachac2 at jh dot edu",
     "summary": "Graduate Research Assistant at HAMR Lab and PhD Candidate in Mechanical Engineering, Johns Hopkins University.",
-    "location": {
-      "address": "3400 N. Charles St.",
-      "postalCode": "MD 21211",
-      "city": "Baltimore",
-      "countryCode": "US",
-      "region": "Maryland"
-    },
     "profiles": [
       {
         "network": "LinkedIn",
@@ -77,15 +69,18 @@
   "skills": [
     {
       "name": "Robotics",
-      "level": "MSE",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Medical Robotics",
-        "Teleoperation",
-        "Skill Assessment",
-        "Sensors",
-        "Wearables",
-        "Haptic Feedback"
+        "Teleoperation"
+      ]
+    },
+    {
+      "name": "Haptics",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Wearable device development",
+        "Haptic signal design"
       ]
     }
   ],
