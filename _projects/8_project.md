@@ -16,6 +16,7 @@ You can use these lists to randomly assign people to take notes/quotes during la
 
 Download the Randomizer app from <a href="https://github.com/sergiomachaca/randomizer">Github</a>.
 
+<!--
     ---
     layout: page
     title: Randomizer
@@ -81,3 +82,4 @@ Here's the code for the last row of images above:
 ```
 
 {% endraw %}
+-->
