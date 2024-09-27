@@ -1,22 +1,24 @@
 ---
 layout: page
-title: project 8
-description: an other project with a background image and giscus comments
+title: Randomizer
+description: a simple name randomizer
 img: assets/img/9.jpg
 importance: 2
 category: work
 giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+This is a simple app I designed during my PhD.
+For our weekly lab meetings, we assign someone to take meeting notes and another person to write down quotes of funny things people said during the meeting.
+We also have a journal club where we assign someone to present an interesting paper that is relevant to their research.
+You input names of people at lab meetings and the app returns randomized lists of names.
+You can use these lists to randomly assign people to take notes/quotes during lab meetings and present at journal club meetings.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Download the Randomizer app from <a href="https://github.com/sergiomachaca/randomizer">Github</a>.
 
     ---
     layout: page
-    title: project
+    title: Randomizer
     description: a project with a background image
     img: /assets/img/12.jpg
     ---
