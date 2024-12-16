@@ -12,13 +12,6 @@ This multimodality haptic feedback wearable provides squeezing and vibrotactile 
 In a user study I am currently running, we are evaluating if the multimodality haptic feedback can improve surgical training task performance for surgical residents using the da Vinci robot.
 The flexible wristband design is inspired by Pezent et al. 2019.
 
-    ---
-    layout: page
-    title: Multimodality haptic feedback device
-    description: haptic feedback device
-    img: /assets/img/ws_device_1.jpg
-    ---
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/ws_device_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
