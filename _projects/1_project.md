@@ -1,13 +1,15 @@
 ---
 layout: page
-title: project 1
+title: multimodality haptic feedback device
 description: with background image
-img: assets/img/12.jpg
+img: assets/img/ws_device_1.jpg
 importance: 1
 category: work
 related_publications: true
 ---
-
+This multimodality haptic feedback wearable provides squeezing and vibrotactile cues to the user from a wrist-worn device.
+In a user study I am currently running, we are evaluating if the multimodality haptic feedback can improve surgical training task performance for surgical residents using the da Vinci robot.
+The flexible wristband design is inspired by Pezent et al. 2019.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -21,7 +23,7 @@ related_publications: true
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Multimodality haptic feedback device featuring tendon, metal pins, drive spool, detent spool, vibrotactile signal connector, servomotor chassis, soft wrist interface pads, and magnetic wristband.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
