@@ -12,12 +12,12 @@ This multimodality haptic feedback wearable provides squeezing and vibrotactile 
 In a user study I am currently running, we are evaluating if the multimodality haptic feedback can improve surgical training task performance for surgical residents using the da Vinci robot.
 The flexible wristband design is inspired by Pezent et al. 2019.
 
-    <!-- ---
+    ---
     layout: page
     title: Multimodality haptic feedback device
     description: haptic feedback device
-    img: /assets/img/12.jpg
-    --- -->
+    img: /assets/img/ws_device_1.jpg
+    ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -35,7 +35,7 @@ The flexible wristband design is inspired by Pezent et al. 2019.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/ws_device_2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/ws_device_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -48,10 +48,10 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/ws_device_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/ws_device_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -68,10 +68,10 @@ Here's the code for the last row of images above:
 ```html
 <div class="row justify-content-sm-center">
   <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/ws_device_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/ws_device_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 ```
