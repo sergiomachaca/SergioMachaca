@@ -25,14 +25,6 @@ The flexible wristband design is inspired by Pezent et al. 2019.
 <div class="caption">
     Multimodality haptic feedback device featuring tendon, metal pins, drive spool, detent spool, vibrotactile signal connector, servomotor chassis, soft wrist interface pads, and magnetic wristband.
 </div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/ws_device_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    another caption
-</div>
 
 <!-- You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
 Say you wanted to write a bit about your project before you posted the rest of the images.
