@@ -23,5 +23,5 @@ The flexible wristband design is inspired by Pezent et al. 2019.
     </div>
 </div>
 <div class="caption">
-    Multimodality haptic feedback device featuring tendon, metal pins, drive spool, detent spool, vibrotactile signal connector, servomotor chassis, soft wrist interface pads, and magnetic wristband.
+    Multimodality haptic feedback device featuring tendon, metal pins, drive spool, detent spool, vibrotactile signal connector, servomotor chassis, soft wrist pads, and magnetic wristband.
 </div>
