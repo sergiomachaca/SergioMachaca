@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Mazda CX-5 keyfob
-description: a more functional, less fragile CX-5 keyfob
+title: custom Mazda CX-5 keyfob
+description: a more functional CX-5 keyfob
 img:
 importance: 3
 category: fun
