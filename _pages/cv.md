@@ -10,4 +10,4 @@ toc:
   sidebar: left
 ---
 
-(Please ignore the placeholder information. The updated CV pdf is available for download.)
+This website is under construction. The updated PDF of my CV is available for download here.
