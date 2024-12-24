@@ -1,10 +1,10 @@
 ---
 layout: page
-title: FFD
-description: Flexible Filament Doser
+title: Mazda CX-5 keyfob
+description: a more functional, less fragile CX-5 keyfob
 img:
 importance: 3
-category: work
+category: fun
 ---
 
 <div class="row">
